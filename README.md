@@ -6,7 +6,7 @@ I'm also using:
 1. [chaijs](https://www.chaijs.com/) to test API and logic.
 
 
-View  **Sudoku Solver**  here:  [https://boilerplate-project-sudoku-solver.abdelghanymh.repl.co/](https://american-british-english-translator.abdelghanymh.repl.co)
+View  **Sudoku Solver**  here:  [https://boilerplate-project-sudoku-solver.abdelghanymh.repl.co/](https://boilerplate-project-sudoku-solver.abdelghanymh.repl.co/)
 
 # Installation
 
